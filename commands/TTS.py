@@ -1,4 +1,4 @@
-from tts import text_to_speech
+from utils.tts import text_to_speech
 
 from config.cfg import USER_ID
 
