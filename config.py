@@ -1,8 +1,8 @@
 # https://my.telegram.org/apps
 
-API_ID = 123
-API_HASH = "qwerty"
-USER_ID = 123  # ur user id in Telegram
+API_ID = 23071617
+API_HASH = "ba28255733a85c10dbba1fc7c15702f5"
+USER_ID = 5947196438
 
 # TTS config:
 
