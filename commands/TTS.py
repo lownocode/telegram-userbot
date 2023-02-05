@@ -1,6 +1,6 @@
 from utils.tts import text_to_speech
 
-from config.cfg import USER_ID
+from config import USER_ID
 
 
 async def send_tts_message(client, message):

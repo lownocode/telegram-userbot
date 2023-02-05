@@ -2,7 +2,7 @@ from pyrogram import Client
 from pyrogram.handlers import MessageHandler
 
 from commands.TTS import send_tts_message
-from config.cfg import API_ID, API_HASH
+from config import API_ID, API_HASH
 
 app = Client("tts_bot", API_ID, API_HASH)
 
